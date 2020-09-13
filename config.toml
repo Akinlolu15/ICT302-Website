@@ -34,8 +34,22 @@ HUGO_VERSION = "0.74.3"
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
 
-[params]
 [[menu.main]]
 name = "Introduction"
 weight = 1
 url = "/introduction/"
+
+[[menu.main]]
+name = "Dummy Annotated Definations"
+weight = 2
+url = "/dummyannotateddefinitions/"
+
+[[menu.main]]
+name = "Dummy Resoure Guide"
+weight = 1
+url = "/dummyresourseguide/"
+
+[[menu.main]]
+name = "Dummy Walkthrough"
+weight = 1
+url = "/dummywalkthough/"
