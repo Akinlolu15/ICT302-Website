@@ -47,7 +47,7 @@ url = "/dummyannotateddefinitions/"
 [[menu.main]]
 name = "Dummy Resoure Guide"
 weight = 1
-url = "/dummyresourseguide/"
+url = "/dummyresourceguide/"
 
 [[menu.main]]
 name = "Dummy Walkthrough"
