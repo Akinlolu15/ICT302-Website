@@ -1,7 +1,7 @@
 baseURL = "https://frosty-perlman-43ebf9.netlify.app/"
 languageCode = "en-us"
 title = "My New Hugo Site"
-theme = "ananke"
+theme = "hugo-PaperMod-master"
 
 [build]
 publish = "public"
