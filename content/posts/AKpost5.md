@@ -4,7 +4,7 @@ date: 2020-09-20T00:00:00-04:00
 draft: false
 ---
 
-# Leraning Report Module 5 
+### Learning Report Module 5 
 I can identify and define key concepts in web content management.
 I can describe and compare content management systems b etter than before.
 I can manage content using established workflows.
