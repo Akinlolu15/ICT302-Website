@@ -1,10 +1,10 @@
 ---
 title: "Learning Report Module 11"
-date: 2020-11-1T00:00:00-04:00
+date: 2020-11-01T00:00:00-04:00
 draft: false
 ---
 
-### Learning Report Module 10
+### Learning Report Module 11
 I can identify and define key concepts in web content management for example this week tring to identify the types of content within canvas
 I can describe and compare content management mainly between hugo and wordpress as those have been main ones we have used. 
 I can manage content using established workflows as i did this week with the group blog post
